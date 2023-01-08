@@ -1,0 +1,8 @@
+tbody tr td {
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+thead tr th {
+  font-family: "Times New Roman", Times, serif;
+}
